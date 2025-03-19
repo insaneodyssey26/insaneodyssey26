@@ -46,7 +46,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/b1/76/7a/b1767a9e6aeb814387bc69bca5171484.gif"  />
-</div>

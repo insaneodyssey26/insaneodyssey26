@@ -1,48 +1,25 @@
-<h1 align="left">Hi 👋! Masum here!</h1>
+# 👋 Hello! I'm Sk Masum Ali
+## 🌐 About Me ~
+![Profile Views](https://komarev.com/ghpvc/?username=insaneodyssey26&color=blue)
 
-###
+I started my tech journey in 2024.
 
-<div align="center" style="display: flex; justify-content: center; gap: 60px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=insaneodyssey26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insaneodyssey26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&border_radius=10" height="150" alt="languages graph" />
-</div>
+I’m a Computer Science student passionate about software development, problem-solving, and open-source contributions. My primary focus is on C++ for DSA and Kotlin for Android development, and I enjoy exploring Web3 and full-stack development.
 
-###
+Currently, I'm actively involved in hackathons, tech communities, and collaborative projects, always looking for opportunities to learn and build impactful solutions.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/insaneodyssey26/count.svg?"  />
-</div>
+🎯 Ongoing: Developing Android apps, participating in hackathons, and expanding my skill set.
 
-###
+📫 Let's connect and collaborate!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/masumali26/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/masum_here" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-  <a href="https://medium.com/@insane_odyssey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=insaneodyssey26&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=insaneodyssey26&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=insaneodyssey26&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
-
-###
+## 🌐 Connect With Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insane.odyssey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masumali26) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@insane_odyssey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/insane_odyssey_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masumali262006@gmail.com) 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

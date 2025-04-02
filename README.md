@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Sk Masum Ali
+# 👋 Hello! I'm Sk Masum Al
 ## 🌐 About Me ~
 ![Profile Views](https://komarev.com/ghpvc/?username=insaneodyssey26&color=blue)
 

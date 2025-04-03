@@ -1,7 +1,5 @@
 # 👋 Hello! I'm Sk Masum Ali
 ## 🌐 About Me ~
-![Profile Views](https://komarev.com/ghpvc/?username=insaneodyssey26&color=blue)
-
 I started my tech journey in 2024.
 
 I’m a Computer Science student passionate about software development, problem-solving, and open-source contributions. My primary focus is on C++ for DSA and Kotlin for Android development, and I enjoy exploring Web3 and full-stack development.

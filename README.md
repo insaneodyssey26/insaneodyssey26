@@ -17,6 +17,8 @@ Currently, I'm actively involved in hackathons, tech communities, and collaborat
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/insane.odyssey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/masumali26) [![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@insane_odyssey) [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/insane_odyssey_) [![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:masumali262006@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=insaneodyssey26&theme=chartreuse-dark&hide_border=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=insaneodyssey26&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=insaneodyssey26&theme=chartreuse-dark&hide_border=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=insaneodyssey26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="175" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=insaneodyssey26&theme=chartreuse-dark&hide_border=false&border_radius=5" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insaneodyssey26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false" height="175" alt="languages graph"  />
+</div>

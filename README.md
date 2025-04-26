@@ -2,7 +2,7 @@
 ## 🌐 About Me ~
 I started my tech journey in 2024.
 
-I’m a Computer Science student passionate about software development, problem-solving, and open-source contributions. My primary focus is on C++ for DSA and Kotlin for Android development, and I enjoy exploring Web3 and full-stack development.
+A 1st year Computer Science student passionate about software development, problem-solving, and open-source contributions. My primary focus is on C++ for DSA and Kotlin for Android development, and I enjoy exploring Web3 and full-stack development.
 
 Currently, I'm actively involved in hackathons, tech communities, and collaborative projects, always looking for opportunities to learn and build impactful solutions.
 

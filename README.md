@@ -1,22 +1,59 @@
-# 👋 Hello! I'm Masum
-## 🌐 About Me ~
-A 1st year Computer Science student passionate about software development, problem-solving, and open-source contributions. My primary focus is on C++ for DSA and Kotlin for Android development, and I enjoy exploring Web3 and full-stack development.
+<h1 align="center">👋 Hi, I'm Masum!</h1>
+<p align="center">
+  <i>A 1st-year Computer Science student exploring the world of software development, problem-solving, and open-source contributions.</i>
+</p>
 
-Currently, I'm actively involved in hackathons, tech communities, and collaborative projects, always looking for opportunities to learn and build impactful solutions.
+---
 
-🎯 Ongoing: Developing Android apps, participating in hackathons, and expanding my skill set.
+## 🌟 About Me
 
-📫 Let's connect and collaborate!
+-  Focused on **C++** for Data Structures and Algorithms and **Kotlin** for Android app development.
+-  Exploring **Web3**, **full-stack development**, and actively participating in **tech communities**.
+-  Engaged in **hackathons** and collaborative projects to build impactful solutions.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+---
 
-## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/insane.odyssey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/masumali26) [![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@insane_odyssey) [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/insane_odyssey_) [![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:masumali262006@gmail.com) 
+## 🛠 Tech Stack & Tools
 
-# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,firebase,c,cpp,kotlin,java,idea,git,vim" height="40" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/insane.odyssey" target="_blank" style="text-decoration: none; margin: 0;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://linkedin.com/in/masumali26" target="_blank" style="text-decoration: none; margin: 0;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://medium.com/@insane_odyssey" target="_blank" style="text-decoration: none; margin: 0;">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://x.com/insane_odyssey_" target="_blank" style="text-decoration: none; margin: 0;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge" style="margin-right: 10px;"/>
+  </a>
+  <a href="mailto:masumali262006@gmail.com" target="_blank" style="text-decoration: none; margin: 0;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insaneodyssey26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="175" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=insaneodyssey26&theme=chartreuse-dark&hide_border=false&border_radius=5" height="175" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insaneodyssey26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=insaneodyssey26&show_icons=true&theme=chartreuse-dark&hide_border=false&count_private=true&include_all_commits=true" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insaneodyssey26&theme=chartreuse-dark&hide_border=false" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaneodyssey26&layout=compact&theme=chartreuse-dark&hide_border=false&langs_count=6" height="175"/>
 </div>
+
+---
+
+<p align="center">
+Thank you for visiting my profile! 👊 Let's connect and build together!
+</p>

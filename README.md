@@ -47,9 +47,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insaneodyssey26&show_icons=true&theme=chartreuse-dark&hide_border=false&count_private=true&include_all_commits=true" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insaneodyssey26&theme=chartreuse-dark&hide_border=false" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaneodyssey26&layout=compact&theme=chartreuse-dark&hide_border=false&langs_count=6" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=insaneodyssey26&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=true" height="175" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=insaneodyssey26&theme=github_dark&hide_border=false" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaneodyssey26&layout=compact&theme=github_dark&hide_border=false&langs_count=6" height="175"/>
 </div>
 
 ---

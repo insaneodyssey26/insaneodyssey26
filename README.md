@@ -57,3 +57,11 @@
 <p align="center">
 Thank you for visiting my profile! 👊 Let's connect and build together!
 </p>
+
+---
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317iydcyhhw3t3rvw3vylfaigrfe&width=700"/>
+</div>
+
+---

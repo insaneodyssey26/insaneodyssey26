@@ -24,20 +24,17 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/insane.odyssey" target="_blank" style="text-decoration: none; margin: 0;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" style="margin-right: 10px;"/>
+  <a href="https://instagram.com/insane.odyssey" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Badge" height="38" width="45" />
   </a>
-  <a href="https://linkedin.com/in/masumali26" target="_blank" style="text-decoration: none; margin: 0;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;"/>
+  <a href="https://linkedin.com/in/masumali26" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Badge" height="38" width="45" />
   </a>
-  <a href="https://medium.com/@insane_odyssey" target="_blank" style="text-decoration: none; margin: 0;">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" style="margin-right: 10px;"/>
+  <a href="https://x.com/insane_odyssey_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter) Badge" height="38" width="45" />
   </a>
-  <a href="https://x.com/insane_odyssey_" target="_blank" style="text-decoration: none; margin: 0;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge" style="margin-right: 10px;"/>
-  </a>
-  <a href="mailto:masumali262006@gmail.com" target="_blank" style="text-decoration: none; margin: 0;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  <a href="mailto:masumali262006@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge" height="38" width="45" />
   </a>
 </p>
 

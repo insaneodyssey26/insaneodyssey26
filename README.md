@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,firebase,c,cpp,kotlin,java,linux,git,vim,neovim" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,firebase,c,cpp,kotlin,java,linux,git,vim,neovim" height="40" />
 </p>
 
 ---

@@ -21,26 +21,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://instagram.com/insane.odyssey" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Badge" height="38" width="45" />
-  </a>
-  <a href="https://linkedin.com/in/masumali26" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Badge" height="38" width="45" />
-  </a>
-  <a href="https://x.com/insane_odyssey_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter) Badge" height="38" width="45" />
-  </a>
-  <a href="mailto:masumali262006@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge" height="38" width="45" />
-  </a>
-</p>
-
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

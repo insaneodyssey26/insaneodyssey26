@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Masum!</h1>
 <p align="center">
-  <i>A 1st-year Computer Science student exploring... Yeah, just exploring and developing bugs :)</i>
+  <i>A Computer Science student exploring... Yeah, just exploring and developing bugs :)</i>
 </p>
 
 ---

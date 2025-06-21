@@ -16,7 +16,7 @@
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=react,firebase,mongodb,c,cpp,java,kotlin,androidstudio,gradle,materialui,reactnative,expo,linux,git,vim,neovim" height="40" />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=react,firebase,mongodb,c,cpp,java,kotlin,androidstudio,gradle,materialui,reactnative,expo,linux,git,vim" height="40" />
 </div>
 
 ---

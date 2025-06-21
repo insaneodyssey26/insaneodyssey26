@@ -16,7 +16,9 @@
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,firebase,mongodb,c,cpp,java,kotlin,androidstudio,gradle,linux,git,vim,neovim" height="40" />
+ <img src="https://skillicons.dev/icons?i=react,vite,firebase,mongodb,c,cpp,java,kotlin,androidstudio,materialui,gradle" height="40" />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" height="40" />
+ <img src="https://skillicons.dev/icons?i=linux,git,vim,neovim" height="40" />
 </p>
 
 ---

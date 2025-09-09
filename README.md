@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Masum!</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&pause=700&color=3DDC84&center=true&vCenter=true&width=900&lines=Android+is+my+playground;Kotlin+%7C+Jetpack+Compose+%7C+React;Sometimes+it's+a+bug%2C+sometimes+a+feature;I+build+apps+that+actually+work+(sometimes);I+break+stuff+so+you+don't+have+to!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&pause=700&color=3DDC84&center=true&vCenter=true&width=900&lines=Kotlin+%7C+Jetpack+Compose+%7C+React;I+make+Android+...Crash!;Sometimes+it's+a+bug%2C+sometimes+a+feature;I+build+apps+that+actually+work+(sometimes);I+break+stuff+so+you+don't+have+to!"/>
 </p>
 
 

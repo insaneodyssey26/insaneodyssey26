@@ -20,7 +20,7 @@ I mostly build **Android** apps using **Jetpack Compose**, **Room**, **Coroutine
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,kotlin,jetpackcompose,gradle,java,firebase,supabase,react,c,cpp,expo,linux" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,kotlin,jetpackcompose,gradle,java,firebase,supabase,mongo,react,c,cpp,expo,linux" height="40" />
 </p>
 
 ---

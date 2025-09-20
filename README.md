@@ -30,7 +30,7 @@ I mostly build **Android** apps using **Jetpack Compose**, **Room**, **Coroutine
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=insaneodyssey26&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" height="140" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=insaneodyssey26&theme=github_dark&hide_border=false" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaneodyssey26&layout=compact&theme=github_dark&hide_border=false&langs_count=6" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaneodyssey26&layout=compact&theme=github_dark&hide_border=false&langs_count=8" height="140"/>
 </div>
 
 ---

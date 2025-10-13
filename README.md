@@ -10,7 +10,7 @@
 
 I mostly build **Android** apps using **Jetpack Compose**, **Room**, **Coroutines**, **Retrofit**, and **MVVM architecture** — but I like experimenting with web apps too. Sometimes things work, sometimes they crash, but that’s all part of the fun.
 <p align="center">
-  <a href="https://drive.google.com/file/d/1zAs59lxN2zXXjd-ijjfog4_aXM3YfJHX/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1iR3ijUebMu6OKQ0FPHBuiGnWd78_BWZw/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-4B8DF8?style=for-the-badge&logo=google-drive&logoColor=black" alt="View Resume"/>
   </a>
 </p>

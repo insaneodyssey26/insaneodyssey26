@@ -5,7 +5,7 @@
 I build Android apps using Jetpack Compose, Room, Coroutines, and MVVM architecture. I also work on various development projects and hackathon challenges when I get the chance.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Gnt89g1OsWbTg2ideTVj7rK9no9Xgcl9/view" target="_blank">
+  <a href="https://masumali.me/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-4B8DF8?style=for-the-badge&logo=google-drive&logoColor=black" alt="Resume"/>
   </a>
 </p>

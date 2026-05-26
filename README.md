@@ -31,9 +31,9 @@ I build Android apps using Jetpack Compose, Room, Coroutines, and MVVM architect
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insaneodyssey26&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=false" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=insaneodyssey26&theme=github_dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaneodyssey26&layout=compact&theme=github_dark&hide_border=false&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=insaneodyssey26&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=insaneodyssey26&theme=github_dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=insaneodyssey26&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="150"/>
 </div>
 
 ---

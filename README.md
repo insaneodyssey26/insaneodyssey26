@@ -39,3 +39,19 @@ I build Android apps using Jetpack Compose, Room, Coroutines, and MVVM architect
 ---
 
 <p align="center">Peace out ✌🏼</p>
+
+---
+
+## 💖 Support My Work
+
+Thanks to everyone who supports my work. If you want to help out:
+
+<p align="center">
+  <a href="https://github.com/sponsors/insaneodyssey26" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white" height="36" alt="Sponsor insaneodyssey26"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/insane_odyssey" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="36" alt="Ko-Fi"/>
+  </a>
+</p>

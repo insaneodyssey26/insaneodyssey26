@@ -1,8 +1,10 @@
 # Hi, I'm Masum
 
-**Android Developer** | Creating Android apps with Kotlin and Jetpack Compose
+**Android Developer** | Kotlin · Jetpack Compose · Kotlin Multiplatform
 
-I build Android apps using Jetpack Compose, Room, Coroutines, and MVVM architecture. I also work on various development projects and hackathon challenges when I get the chance.
+> Somewhere between Android and a terminal.
+
+I build Android apps with Kotlin and Jetpack Compose, mostly around system APIs, networking, privacy, and offline-first architecture. I'm also actively working with Kotlin Multiplatform.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1_Ezz1PsL15Be4wUlaPBjSBpTMEDGVUoz/view?usp=sharing" target="_blank">
@@ -12,19 +14,43 @@ I build Android apps using Jetpack Compose, Room, Coroutines, and MVVM architect
 
 ---
 
+## Featured Projects
+
+### [Cipher](https://github.com/insaneodyssey26/cipher)
+
+Privacy-first personal finance app that processes bank SMS and finance-app notifications entirely on-device. **Shipped to Google Play.**
+
+[GitHub](https://github.com/insaneodyssey26/cipher) · [Google Play](https://play.google.com/store/apps/details?id=com.masum.cipher)
+
+### [Vigil](https://github.com/insaneodyssey26/vigil)
+
+On-device Android network monitor using `VpnService`, raw packet parsing, DNS classification, application attribution, and local traffic logging.
+
+[GitHub](https://github.com/insaneodyssey26/vigil)
+
+### [Codeforces Companion](https://github.com/insaneodyssey26/codeforces-companion)
+
+Cross-platform Codeforces client built with Kotlin Multiplatform, sharing application logic across Android and Desktop JVM.
+
+[GitHub](https://github.com/insaneodyssey26/codeforces-companion)
+
+---
+
 ## Tech Stack
 
-### Primary Skills (Android Development)
+### Android
+
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,kotlin,jetpackcompose,gradle,java" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,kotlin,jetpackcompose,gradle" height="40" />
 </p>
 
-##
+### Other Skills & Experiments
 
-### Other Skills
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,mongo,expo,cpp,linux,bash" height="40" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,bash,linux,arch,hyprland,lua,qt" height="40" />
 </p>
+
+I enjoy customizing my Linux environment and experimenting with my setup.
 
 ---
 

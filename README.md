@@ -54,12 +54,10 @@ Distraction-free classic literature reader indexing 15,160+ canonical passages a
 
 | Project | Scope & Technical Contribution | Reference |
 | :--- | :--- | :--- |
-| **KDE Connect Android** | Migrated legacy `PreferenceManager` across 16 files to modern `androidx.preference` | [MR !693](https://invent.kde.org/network/kdeconnect-android/-/merge_requests/693) (Merged) |
-| **KDE Connect Android** | Modernized directory selection to the AndroidX Activity Result API | [MR !692](https://invent.kde.org/network/kdeconnect-android/-/merge_requests/692) (Merged) |
-| **KDE Connect Android** | Standardized activity back-navigation with `OnBackPressedDispatcher` | [MR !690](https://invent.kde.org/network/kdeconnect-android/-/merge_requests/690) (Merged) |
-| **Signal Android** | Resolved call log clustering timeout bypass caused by negative timestamp deltas | [PR #14926](https://github.com/signalapp/Signal-Android/pull/14926) (Merged) |
-| **DuckDuckGo Android** | Enabled trusted caller App Links redirection handling for Custom Tabs OAuth | [PR #9884](https://github.com/duckduckgo/Android/pull/9884) (In Review) |
-| **DuckDuckGo Android** | Resolved `IllegalStateException` crashes in `ViewPager2` tab swipe transitions | [PR #9883](https://github.com/duckduckgo/Android/pull/9883) (In Review) |
+| **KDE Connect Android** | **12 Merged Upstream MRs**: Added horizontal scroll gestures to Mousepad protocol, migrated 7 core plugins & helpers (`RunCommand`, `FindMyPhone`, `Clipboard`, `TelephonyHelper`, `AlertDialogFragment`) from Java to Kotlin, and modernized 25+ files to AndroidX & API 31+. | [**12 Merged MRs**](https://invent.kde.org/network/kdeconnect-android/-/merge_requests/?sort=created_date&state=merged&author_username=heymasum&first_page_size=20) (GitLab) |
+| **Signal Android** | Resolved call log clustering timeout bypass caused by negative timestamp deltas in `CallEventCache.kt` | [PR #14926](https://github.com/signalapp/Signal-Android/pull/14926) (Merged) |
+
+> 💡 *Full architectural write-ups, tech stacks, and diff summaries for all 13 merged upstream contributions are available on [masum.tech/projects](https://masum.tech/projects).*
 
 ---
 

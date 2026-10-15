@@ -54,10 +54,10 @@ Distraction-free classic literature reader indexing 15,160+ canonical passages a
 
 | Project | Scope & Technical Contribution | Reference |
 | :--- | :--- | :--- |
-| **KDE Connect Android** | **12 Merged Upstream MRs**: Added horizontal scroll gestures to Mousepad protocol, migrated 7 core plugins & helpers (`RunCommand`, `FindMyPhone`, `Clipboard`, `TelephonyHelper`, `AlertDialogFragment`) from Java to Kotlin, and modernized 25+ files to AndroidX & API 31+. | [**12 Merged MRs**](https://invent.kde.org/network/kdeconnect-android/-/merge_requests/?sort=created_date&state=merged&author_username=heymasum&first_page_size=20) (GitLab) |
+| **KDE Connect Android** | **50+ Merged Upstream MRs**: Added horizontal scroll gestures to Mousepad protocol, migrated 7 core plugins & helpers (`RunCommand`, `FindMyPhone`, `Clipboard`, `TelephonyHelper`, `AlertDialogFragment`) from Java to Kotlin, and modernized 25+ files to AndroidX & API 31+. | [**All Merged MRs**](https://invent.kde.org/network/kdeconnect-android/-/merge_requests/?sort=created_date&state=merged&author_username=heymasum&first_page_size=20) (GitLab) |
 | **Signal Android** | Resolved call log clustering timeout bypass caused by negative timestamp deltas in `CallEventCache.kt` | [PR #14926](https://github.com/signalapp/Signal-Android/pull/14926) (Merged) |
 
-> 💡 *Full architectural write-ups, tech stacks, and diff summaries for all 13 merged upstream contributions are available on [masum.tech/projects](https://masum.tech/projects).*
+> *Full architectural write-ups, tech stacks, and diff summaries are available on [masum.tech/projects](https://masum.tech/projects).*
 
 ---
 

@@ -30,13 +30,13 @@ Automated bank SMS and notification parsing engine with zero network transmissio
 
 ---
 
-#### [Vigil](https://github.com/insaneodyssey26/vigil) - On-Device DNS Telemetry & Tracker Inspector
-Zero-root network telemetry inspector using a local `VpnService` tunnel. Dissects raw UDP DNS packets in real-time, attributing queries to specific apps and classifying lookups against 90,000+ tracker domains using an in-memory reverse-label suffix trie.
+#### [Lantern](https://github.com/insaneodyssey26/lantern) - On-Device DNS Firewall & Network Telemetry
+Zero-root network firewall and telemetry engine using a local `VpnService` tunnel. Dissects UDP DNS packets in real-time, attributing queries to originating apps, blocking trackers via instant NXDOMAIN responses against 80,000+ domains, and supporting encrypted DoH & DoT upstream transports.
 
-> It audits everything your chatty apps do, but never blocks. We observe, we do not judge.
+> Sub-millisecond tracker sinkholing and query attribution without external VPN proxies.
 
-`Kotlin` · `Jetpack Compose` · `VpnService` · `Suffix Trie` · `Hilt` · `Room` · `Multi-Module Gradle`  
-[Releases](https://github.com/insaneodyssey26/vigil/releases) · [Source Code](https://github.com/insaneodyssey26/vigil) · [Case Study](https://masum.tech/projects/vigil)
+`Kotlin` · `Jetpack Compose` · `VpnService` · `DoH / DoT` · `Suffix Trie` · `Hilt` · `Room` · `Multi-Module Gradle`  
+[Releases](https://github.com/insaneodyssey26/lantern/releases) · [Source Code](https://github.com/insaneodyssey26/lantern) · [Case Study](https://masum.tech/projects/lantern)
 
 ---
 

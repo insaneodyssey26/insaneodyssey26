@@ -46,7 +46,7 @@ Distraction-free classic literature reader indexing 15,160+ canonical passages a
 > Search takes under 5 ms; understanding the texts takes a lifetime.
 
 `Kotlin Multiplatform` · `Jetpack Compose` · `SQLDelight` · `Media3 / ExoPlayer` · `SHA-256` · `StateFlow`  
-[Releases](https://github.com/insaneodyssey26/fathom/releases) · [Source Code](https://github.com/insaneodyssey26/fathom) · [Case Study](https://masum.tech/projects/fathom)
+[Google Play](https://play.google.com/store/apps/details?id=com.masum.fathom) · [Releases](https://github.com/insaneodyssey26/fathom/releases) · [Source Code](https://github.com/insaneodyssey26/fathom) · [Case Study](https://masum.tech/projects/fathom)
 
 ---
 
@@ -55,7 +55,7 @@ Distraction-free classic literature reader indexing 15,160+ canonical passages a
 | Project | Scope & Technical Contribution | Reference |
 | :--- | :--- | :--- |
 | **OpenTelemetry Android (CNCF)** | **7+ Merged Upstream PRs**: Added `uninstall()` teardown across 7 core instrumentation modules (OkHttp, WebSockets, Crash, ANR, Compose), solved cross-thread listener visibility with volatile delegates, and extended the Kotlin Agent DSL for custom session management. | [**Merged PRs**](https://github.com/open-telemetry/opentelemetry-android/pulls?q=is%3Apr+author%3Ainsaneodyssey26+is%3Amerged) (GitHub) |
-| **KDE Connect Android** | **50+ Merged Upstream MRs**: Added horizontal scroll gestures to Mousepad protocol, migrated 7 core plugins & helpers (`RunCommand`, `FindMyPhone`, `Clipboard`, `TelephonyHelper`, `AlertDialogFragment`) from Java to Kotlin, and modernized 25+ files to AndroidX & API 31+. | [**All Merged MRs**](https://invent.kde.org/network/kdeconnect-android/-/merge_requests/?sort=created_date&state=merged&author_username=heymasum&first_page_size=20) (GitLab) |
+| **KDE Connect Android** | **60+ Merged Upstream MRs**: Added horizontal scroll gestures to Mousepad protocol, migrated 7 core plugins & helpers (`RunCommand`, `FindMyPhone`, `Clipboard`, `TelephonyHelper`, `AlertDialogFragment`) from Java to Kotlin, and modernized 25+ files to AndroidX & API 31+. | [**All Merged MRs**](https://invent.kde.org/network/kdeconnect-android/-/merge_requests/?sort=created_date&state=merged&author_username=heymasum&first_page_size=20) (GitLab) |
 | **Signal Android** | Resolved call log clustering timeout bypass caused by negative timestamp deltas in `CallEventCache.kt` | [PR #14926](https://github.com/signalapp/Signal-Android/pull/14926) (Merged) |
 
 > *Full architectural write-ups, tech stacks, and diff summaries are available on [masum.tech/projects](https://masum.tech/projects).*
